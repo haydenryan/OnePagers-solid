@@ -14,7 +14,7 @@
   - FontAwesome 4.7.0 included
 
 [![Screenshot 1](https://haydenryan.github.io/OnePagers-solid/screenshot.png)](https://donorbox.org/onepagers-themes)
-[![Screenshot 2](https://haydenryan.github.io/OnePagers-solid/screenshot2.png)](https://donorbox.org/onepagers-themes)
+[![Screenshot 2](https://haydenryan.github.io/OnePagers-gradient/screenshot2.png)](https://donorbox.org/onepagers-themes)
 
 # Table of contents
 1. [What's Inside](#whats-inside)
